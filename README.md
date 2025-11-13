@@ -41,5 +41,5 @@ Este minicurso apresenta técnicas de otimização aplicadas às ciências agrá
 
 ## 📧 Contato
 
-Para dúvidas ou mais informações, entre em contato através de mayron.moreira@ufla..
+Para dúvidas ou mais informações, entre em contato através de mayron.moreira@ufla.br
 
