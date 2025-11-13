@@ -29,8 +29,9 @@ Este minicurso apresenta técnicas de otimização aplicadas às ciências agrá
     - Bibliotecas relevantes
     
 4. **Estudos de Caso**
-    - Planejamento de cultivos
-    - Áreas de preservação
+    - Planejamento de cultivos  
+    - Áreas de preservação  
+    - Os exemplos podem ser executados no Google Colab.
 
 ## 🛠️ Pré-requisitos
 
@@ -40,5 +41,5 @@ Este minicurso apresenta técnicas de otimização aplicadas às ciências agrá
 
 ## 📧 Contato
 
-Para dúvidas ou mais informações, entre em contato através do Departamento de Ciência da Computação (DCC/UFLA).
+Para dúvidas ou mais informações, entre em contato através de mayron.moreira@ufla..
 
